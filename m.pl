@@ -23,7 +23,7 @@ my ($attribs)=@ARGV;
 
 # used file handles
 my $fhoutfile;
-my $OutputFilePath = "/home/bcrayton/nagios/logs";
+my $OutputFilePath = "/var/log/m/logs";
 my $OutFile;
 
 # the following are defined for QA
